@@ -1,3 +1,9 @@
 build/
 logs/
 *.pcap
+
+# Generated P4 compiler files
+tunnel.json
+tunnel.p4i
+__pycache__/
+*.py[cod]
